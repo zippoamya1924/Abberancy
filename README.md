@@ -145,4 +145,4 @@ This repository serves as the official landing page for Abberancy. The software 
 **Get the most recent version of Abberancy today!**
 
 ---
-**Last updated:** 2026-11-22 19:15:45 UTC
+**Last updated:** 2026-11-23 00:40:09 UTC
